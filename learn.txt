@@ -1,0 +1,2 @@
+HTML  is hyper text mark up language
+Hypertext means text whcih has links to other texts
