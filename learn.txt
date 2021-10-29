@@ -1,2 +1,7 @@
-HTML  is hyper text mark up language
-Hypertext means text whcih has links to other texts
+HTML  is hyper text markup language
+Hypertext means text which has links to other texts
+markup lang are tags which reprsent a content in diffrent ways eg: <title></title>
+
+HTML  is used to structure the website
+CSS is used to style the website
+Javascript is used to interact with the website
