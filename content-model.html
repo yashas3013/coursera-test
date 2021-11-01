@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <div>d1</div>
+    <div>d2</div>
+    <span>s1 <!-- renders in the same line.
+            Even though it should cone same line as d2 the div make sure that span starts in a new line-->
+        <div>hi</div> <!-- div renders in a new line-->
+    </span>
+    <div>
+        d3
+        <span>s2</span><!--same line-->
+    </div>
+</body>
+</html>
